@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C6679DE8-52D6-4D1C-A7C6-84ADF1E8B909}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/ui/IdentityServer4.Quickstart.UI-dev/Quickstart/Home/HomeController.cs">
+    <Files>
+      <File FileName="Server/Startup.cs" Line="24" Column="82" />
+      <File FileName="Server/Program.cs" Line="28" Column="1" />
+      <File FileName="Server/Config.cs" Line="87" Column="6" />
+      <File FileName="MyApi/Startup.cs" Line="53" Column="37" />
+      <File FileName="MyApi/Program.cs" Line="26" Column="1" />
+      <File FileName="MyApi/Controllers/IdentityController.cs" Line="22" Column="1" />
+      <File FileName="MyApi/Controllers/ValuesController.cs" Line="16" Column="18" />
+      <File FileName="ResourceOwnerPasswordClient/Program.cs" Line="28" Column="39" />
+      <File FileName="Server/ui/IdentityServer4.Quickstart.UI-dev/Quickstart/TestUsers.cs" Line="18" Column="18" />
+      <File FileName="Server/ui/IdentityServer4.Quickstart.UI-dev/Quickstart/SecurityHeadersAttribute.cs" Line="1" Column="1" />
+      <File FileName="Server/ui/IdentityServer4.Quickstart.UI-dev/Quickstart/Extensions.cs" Line="1" Column="1" />
+      <File FileName="Server/ui/IdentityServer4.Quickstart.UI-dev/Quickstart/Home/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

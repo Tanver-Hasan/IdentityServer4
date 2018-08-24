@@ -1,0 +1,14 @@
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/bin/Debug/netcoreapp2.1/MyApi.deps.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/bin/Debug/netcoreapp2.1/MyApi.runtimeconfig.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/bin/Debug/netcoreapp2.1/MyApi.runtimeconfig.dev.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/bin/Debug/netcoreapp2.1/MyApi.dll
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/bin/Debug/netcoreapp2.1/MyApi.pdb
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.csproj.CoreCompileInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.RazorAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.RazorAssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.AssemblyInfoInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.AssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.RazorTargetAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.dll
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.pdb
+/Users/tanverhasan/Documents/IdentitityServer/Server/MyApi/obj/Debug/netcoreapp2.1/MyApi.csprojAssemblyReference.cache

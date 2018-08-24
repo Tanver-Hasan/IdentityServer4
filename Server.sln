@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{C6679DE8-52D6-4D1C-A7C6-84ADF1E8B909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi", "MyApi\MyApi.csproj", "{CDEF7065-692F-40B0-814B-DAED4E8297F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCredentials", "Client\ClientCredentials.csproj", "{003B0534-F44C-4D42-8E24-A619F38322BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceOwnerPasswordClient", "ResourceOwnerPasswordClient\ResourceOwnerPasswordClient.csproj", "{CEA476BD-7741-41C1-B35E-6870D3D39289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6679DE8-52D6-4D1C-A7C6-84ADF1E8B909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6679DE8-52D6-4D1C-A7C6-84ADF1E8B909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6679DE8-52D6-4D1C-A7C6-84ADF1E8B909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEF7065-692F-40B0-814B-DAED4E8297F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEF7065-692F-40B0-814B-DAED4E8297F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEF7065-692F-40B0-814B-DAED4E8297F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003B0534-F44C-4D42-8E24-A619F38322BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003B0534-F44C-4D42-8E24-A619F38322BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003B0534-F44C-4D42-8E24-A619F38322BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003B0534-F44C-4D42-8E24-A619F38322BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA476BD-7741-41C1-B35E-6870D3D39289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA476BD-7741-41C1-B35E-6870D3D39289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA476BD-7741-41C1-B35E-6870D3D39289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA476BD-7741-41C1-B35E-6870D3D39289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+		$0.StandardHeader = $3
+	EndGlobalSection
+EndGlobal

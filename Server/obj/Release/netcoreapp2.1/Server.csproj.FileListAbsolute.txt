@@ -1,0 +1,13 @@
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/bin/Release/netcoreapp2.1/Server.deps.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/bin/Release/netcoreapp2.1/Server.runtimeconfig.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/bin/Release/netcoreapp2.1/Server.runtimeconfig.dev.json
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/bin/Release/netcoreapp2.1/Server.dll
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/bin/Release/netcoreapp2.1/Server.pdb
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.csproj.CoreCompileInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.RazorAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.RazorAssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.AssemblyInfoInputs.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.AssemblyInfo.cs
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.RazorTargetAssemblyInfo.cache
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.dll
+/Users/tanverhasan/Documents/IdentitityServer/Server/Server/obj/Release/netcoreapp2.1/Server.pdb
